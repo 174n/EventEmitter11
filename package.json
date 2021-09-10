@@ -1,6 +1,6 @@
 {
   "name": "eventemitter11",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Next event emitter after the 10th one",
   "main": "emitter.js",
   "scripts": {

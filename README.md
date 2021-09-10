@@ -31,7 +31,7 @@ emitter.listen('my-original-event', (args) => {
 }, '10 minutes'); // TTL argument is optional
 
 // Emit the event
-emitter('my-original-event', 'hi');
+emitter.emit('my-original-event', 'hi');
 ```
 
 ## TODO
