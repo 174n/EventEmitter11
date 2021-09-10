@@ -1,0 +1,28 @@
+{
+  "name": "eventemitter11",
+  "version": "1.0.0",
+  "description": "Next event emitter after the 10th one",
+  "main": "emitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rundik",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "eventemitter",
+    "eventemitter2",
+    "eventemitter3",
+    "eventemitter4",
+    "eventemitter5",
+    "eventemitter6",
+    "eventemitter7",
+    "eventemitter8",
+    "eventemitter9",
+    "eventemitter10"
+  ]
+}
